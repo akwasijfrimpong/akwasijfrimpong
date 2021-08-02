@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akwasijfrimpong
-- 👀 I’m interested in software/web development
-- 🌱 I’m currently learning python, nodeJS and SQL
-- 💞️ I’m looking to collaborate on small scale projects where I can learn alot
+- 👀 I’m interested in software/web development.
+- 🌱 I’m currently learning python, nodeJS and SQL.
+- 💞️ I’m looking to collaborate on small scale web development projects.
 - 📫 How to reach me akwasijfrimpong@gmail.com
 
 <!---
