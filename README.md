@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akwasijfrimpong
-- 👀 I’m interested in software/web development.
-- 🌱 I’m currently learning python, nodeJS and SQL.
+- 👀 I'm a software Developer with over two years of experience
+- 🌱 I’m currently making Next.js and React apps.
 - 💞️ I’m looking to collaborate on small scale web development projects.
 - 📫 How to reach me akwasijfrimpong@gmail.com
 
